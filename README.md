@@ -40,9 +40,10 @@ To find all returning clients, I created a duplicate sheet and adjusted the date
 *Table highlighting clients who returned after Lent*
 
 ### Final Calculation
-$Conversion$ $Rate=$ ($Returning$ $Lenten$ $Clients$ $/$  $New$ $Lenten$ $Clients$) $ * 100$
+$Conversion$ $Rate=$ ($Returning$ $Lenten$ $Clients$ $/$  $New$ $Lenten$ $Clients$) $* 100$
 
-$28.6\% = (2/7)*100$ 
+**28.6%** = (2/7)*100
+
 
 # Conclusions
 ## Insights
