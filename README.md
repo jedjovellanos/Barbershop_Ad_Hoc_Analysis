@@ -1,8 +1,8 @@
 # Overview
-This case study is a retrospective analysis that involves investigating past revenue trends to identify the cause of a drop and surface insights on customer behavior. The project utilizes a self-created dataset from my barbering side business which contains information such as appointment dates, client history, and payment amounts/methods.  
+This case study is an ad hoc analysis that involves investigating past revenue trends to identify the cause of a drop and surface insights on customer behavior. The project utilizes a self-created dataset from my barbering side business which contains information such as appointment dates, client history, and payment amounts/methods.  
 
 # Business Question
-Why did revenue drop 24.6% in Febraury 2024 then increase 35.9% in April 2024?
+Why did revenue drop 24.6% in February 2024 then rebound 35.9% in April 2024?
 
 ![Monthly Revenue](assets/1monthly_revenue.png)
 *Fig 1: Bar graph showcasing the monthly revenue from January to April of 2024*
